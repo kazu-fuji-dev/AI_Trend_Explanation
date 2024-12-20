@@ -1,7 +1,3 @@
-layout: page
-title: "AI_Trend_Explanation Privacy Policy"
-permalink: /privacypolicy  
-
 # プライバシーポリシー
 モバイル端末向けアプリ『AIトレンド解説』（以下「本アプリ」といいます）では、Google LLC（以下「Google社」といいます）のサービスを利用しております。そのため、本アプリはGoogle社が運用するツールにより以下に定める情報を送信したうえ、分析等行う場合がございます。
 
